@@ -68,16 +68,16 @@ ul, li {
 
 .first {
 	margin-right: 80px;
-	transition: 1.5s;
+	
 }
 
 .second {
 	margin-right: 80px;
-	transition: 0.5s;
+	
 }
 
 .third {
-	transition: 1.5s;
+
 }
 
 
